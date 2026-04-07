@@ -12,7 +12,7 @@ Portfolio Website:
 https://arpita1234-add.github.io/Portfolio-Final/
 
 GitHub Repository:
-https://github.com/arpita1234-add/Portfolio-Final
+https://github.com/arpita1234-add/
 
 ## Highlights
 - Built scalable Pub/Sub pipeline processing 300K+ messages
